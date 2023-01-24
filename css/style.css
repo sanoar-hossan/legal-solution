@@ -11,14 +11,9 @@
     margin:0px auto;
     
     top:40%;
-    left: 27%;
+    left: 20%;
   }
-  @media screen {
-    .bg-content{
-      
-    }
-    
-  }
+  
   .arrow{
     margin: 0px 160px;
 
